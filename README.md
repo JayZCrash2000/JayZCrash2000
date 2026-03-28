@@ -18,7 +18,7 @@ India | Open to Data Science / AI-ML roles
 
 ---
 
-## Featured Projects
+## My Projects
 
 | Project | Description | Tech |
 |---|---|---|
