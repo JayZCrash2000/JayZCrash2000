@@ -27,12 +27,7 @@ India | Open to Data Science / AI-ML roles
 
 ---
 
-## GitHub Stats
-
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayZCrash2000&show_icons=true&theme=tokyonight)
-
----
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
+[![LinkedIn](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
