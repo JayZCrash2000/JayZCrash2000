@@ -30,4 +30,4 @@ India | Open to Data Science / AI-ML roles
 
 ## Let's Connect
 
-[![LinkedIn](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
+[LinkedIn](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
