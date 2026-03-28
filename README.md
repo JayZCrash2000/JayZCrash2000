@@ -1,8 +1,8 @@
 # Hi, I'm Jeet Kumar 👋
 
-🎓 Data Science & AI/ML enthusiast | IIT Madras  
-🔍 Passionate about NLP, Deep Learning, and turning data into decisions  
-📍 India | Open to Data Science / AI-ML roles
+Data Science & AI/ML enthusiast | IIT Madras  
+Passionate about NLP, Deep Learning, and turning data into decisions  
+India | Open to Data Science / AI-ML roles
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -27,12 +27,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayZCrash2000&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
