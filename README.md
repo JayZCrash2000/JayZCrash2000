@@ -1,4 +1,5 @@
-# Hi, I'm Jeet Kumar 👋
+
+# Hi, I'm Jeet Kumar
 
 Data Science & AI/ML enthusiast | IIT Madras  
 Passionate about NLP, Deep Learning, and turning data into decisions  
@@ -6,7 +7,7 @@ India | Open to Data Science / AI-ML roles
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL  
 **ML/DL:** Scikit-learn, PyTorch, TensorFlow, HuggingFace Transformers  
@@ -21,13 +22,18 @@ India | Open to Data Science / AI-ML roles
 
 | Project | Description | Tech |
 |---|---|---|
-| 🚗 [Vehicle Price Predictor](https://github.com/JayZCrash2000/vehicle-price-predictor) | ML model to predict used car prices with EDA | Sklearn, Pandas, Matplotlib |
-| 🌐 [Multilingual Sentiment Classifier](https://github.com/JayZCrash2000/multilingual-sentiment-nlp) | Fine-tuned LLM for sentiment across 13 Indian languages | PyTorch, HuggingFace, QLoRA |
-| 📊 [Sales EDA Dashboard](https://github.com/JayZCrash2000/sales-eda-dashboard) | End-to-end exploratory analysis with business insights | Pandas, Seaborn, Plotly |
+| [Vehicle Price Predictor](https://github.com/JayZCrash2000/vehicle-price-predictor) | ML model to predict used car prices with EDA | Sklearn, Pandas, Matplotlib |
+| [Multilingual Sentiment Classifier](https://github.com/JayZCrash2000/multilingual-sentiment-nlp) | Fine-tuned LLM for sentiment across 13 Indian languages | PyTorch, HuggingFace, QLoRA |
+| [Sales EDA Dashboard](https://github.com/JayZCrash2000/sales-eda-dashboard) | End-to-end exploratory analysis with business insights | Pandas, Seaborn, Matplotlib |
 
 ---
 
+## GitHub Stats
+
+![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayZCrash2000&show_icons=true&theme=tokyonight)
+
+---
 
 ## Let's Connect
 
-[LinkedIn](https://https://www.linkedin.com/in/jeet-kumar-a912aa219/)
+[LinkedIn](https://www.linkedin.com/in/jeet-kumar-a912aa219/)
